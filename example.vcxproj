@@ -168,7 +168,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ExePath\executable_path_internals.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mapper\intel_driver.cpp" />
     <ClCompile Include="mapper\kdmapper.cpp" />
@@ -178,7 +177,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="api\KeyAuth.hpp" />
-    <ClInclude Include="ExePath\executable_path_internals.hpp" />
     <ClInclude Include="mapper\intel_driver.hpp" />
     <ClInclude Include="mapper\intel_driver_resource.hpp" />
     <ClInclude Include="mapper\kdmapper.hpp" />
